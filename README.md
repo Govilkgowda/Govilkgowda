@@ -2,6 +2,8 @@
 # 💫 About Me:
 I'm currently learning
 
+[![](https://visitcount.itsvg.in/api?id=Govilkgowda&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
@@ -14,5 +16,3 @@ I'm currently learning
 ![](https://github-profile-trophy.vercel.app/?username=Govilkgowda&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Govilkgowda&icon=0&color=0)](https://visitcount.itsvg.in)
-
