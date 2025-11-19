@@ -7,7 +7,6 @@ I'm currently learning
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-
 <img width="35" height="20" alt="image" src="https://github.com/user-attachments/assets/f18d2486-935f-4f7f-99f9-5f37a89f0507" />
 
 # 📊 GitHub Stats:
